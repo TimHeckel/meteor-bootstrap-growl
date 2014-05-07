@@ -1,8 +1,8 @@
 {
-    "name": "bootstrap-growl+",
+    "name": "bootstrap-growl-plus",
     "description": "jQuery plugin that turns standard Bootstrap alerts into Growl-like notifications.",
     "homepage": "https://github.com/pascoual/meteor-bootstrap-growl",
     "author": "Pascal Richier @pascalrichier, original from Nick Larson @NickCLarson",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "git": "https://github.com/pascoual/meteor-bootstrap-growl.git"
 }
