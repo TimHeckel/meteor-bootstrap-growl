@@ -1,8 +1,7 @@
-###bootstrap-growl - Meteor Smart Package
+### bootstrap-growl - Meteor Smart Package
 
-This is a the [bootstrap growl jquery plugin](https://github.com/ifightcrime/bootstrap-growl) as a meteor smart package.
+This is a the [bootstrap growl jQuery plugin](https://github.com/ifightcrime/bootstrap-growl) as a Meteor smart package.
 
-###How to use?
+### How to use?
 
-1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt add bootstrap-growl`
+    meteor add timheckel:bootstrap-growl
