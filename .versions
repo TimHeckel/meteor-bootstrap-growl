@@ -1,4 +1,6 @@
-jquery@1.11.3
-meteor@1.1.4
-mrt:bootstrap-growl@0.1.4
-underscore@1.0.2
+duongthienduc:meteor-bootstrap-growl@1.0.3
+jquery@1.11.8
+meteor@1.1.14
+modules@0.6.1
+modules-runtime@0.6.3
+underscore@1.0.8
